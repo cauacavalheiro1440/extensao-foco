@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Extensão Foco",
+  "version": "1.0",
+  "description": "Bloqueia TikTok e Instagram para manter o foco",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["tabs"],
+  "host_permissions": [
+    "*://*.tiktok.com/*",
+    "*://*.instagram.com/*"
+  ]
+}

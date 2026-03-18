@@ -1,0 +1,31 @@
+body {
+  width: 285px;
+  padding: 16px;
+  font-family: Arial, sans-serif;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 22px;
+  color: #038271;
+  margin-bottom: 12px;
+}
+
+p {
+  font-size: 14px;
+  color: #6CB4B8;
+}
+
+.sites {
+  margin-top: 12px;
+  background-color: #212121;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+ul {
+  margin: 6px 0 0 16px;
+  font-size: 13px;
+  color: #038271;
+}
